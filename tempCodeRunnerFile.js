@@ -1,0 +1,1 @@
+"friend","friendUltra","friendUltraPro","friendUltraProMax"
