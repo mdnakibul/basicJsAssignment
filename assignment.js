@@ -1,4 +1,4 @@
-// Github lInk
+// https://github.com/mdnakibul/basicJsAssignment
 
 // First Function Convert Kilometer to Meter
 
